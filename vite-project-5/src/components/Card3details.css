@@ -1,0 +1,41 @@
+.container3{
+    height: 500px;
+    width: 500px;
+    background-color: yellow;
+    position: relative;
+}
+#radio7{
+    position: absolute;
+    top: 250px;
+    left: 170px;
+}
+#radio8{
+    position: absolute;
+    top: 280px;
+    left: 170px;
+}
+#radio9{
+    position: absolute;
+    top: 311px;
+    left: 170px;
+}
+#payment3{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+#quant3{
+    position: absolute;
+    top: 140px;
+    left: 150px;
+}
+#item3{
+    position: absolute;
+    top: 60px;
+    left: 150px;
+}
+#btnord3{
+    position: absolute;
+    top: 370px;
+    left: 170px;
+}

@@ -1,0 +1,46 @@
+.headcontainer{
+    height: 50px;
+    width: 1600px;
+    background-color: antiquewhite;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+}
+#hm{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+}
+#mn{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+}
+#pg{
+    position: absolute;
+    top: 10px;
+    left: 500px;
+}
+#bl{
+    position: absolute;
+    top: 10px;
+    left: 600px;
+}
+#sp{
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+#phn{
+    margin-top: 10px;
+    position: absolute;
+    top: 0px;
+    left: 1310px;
+}
+b{
+    color: red;
+}

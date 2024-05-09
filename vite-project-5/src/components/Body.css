@@ -1,0 +1,152 @@
+.bodycontainer{
+    height: 1550px;
+    width: 1600px;
+    background-color: yellow;
+    position: absolute;
+    top: 51px;
+    left: 0px;
+}
+#order{
+    color: orangered;
+}
+#heading{
+    color: blue;
+}
+#card1{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    background-color: green;
+    color: goldenrod;
+}
+#burger{
+    width: 250px;
+}
+#card2{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 350px;
+    left: 650px;
+    background-color: green;
+    color: goldenrod;
+
+}
+#chowmin{
+    width: 250px;
+}
+#card3{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 350px;
+    left: 1200px;
+    background-color: green;
+    color: goldenrod;
+}
+#biryani{
+   width: 250px;
+}
+#card4{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 750px;
+    left: 100px;
+    background-color: green;
+    color: goldenrod;
+}
+#momo{
+  width: 250px;
+}
+#card5{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 750px;
+    left: 650px;
+    background-color: green;
+    color: goldenrod;
+}
+#paratha{
+    width: 250px;
+}
+#card6{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 750px;
+    left: 1200px;
+    background-color: green;
+    color: goldenrod;
+}
+#fish{
+  width: 250px;
+}
+#card7{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 100px;
+    background-color: green;
+    color: goldenrod;
+}
+#pizza{
+   width: 250px;
+}
+#card8{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 650px;
+    background-color: green;
+    color: goldenrod;
+}
+#chili{
+   width: 250px;
+}
+#card9{
+    height: 350px;
+    width: 255px;
+    margin-left: 10px;
+    position: absolute;
+    top: 1150px;
+    left: 1200px;
+    background-color: green;
+    color: goldenrod;
+}
+#mutton{
+   width: 250px;
+}
+#btn3{
+    position: absolute;
+    top: 291px;
+    left: 90px;
+
+}
+#btn7{
+    position: absolute;
+    top: 293px;
+    left: 90px;
+}
+#food{
+    height: 30px;
+}
+#btnorder{
+    background-color: orangered;
+    position: relative;
+    top: 3px;
+    left: 20px;
+}
